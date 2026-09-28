@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Nurus
 
-<!--
-**nurussakinahnadiah/nurussakinahnadiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Google Cloud Certified | Customer Service -> Cloud Support Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working towards a Cloud Support Engineer
+- 🌱 Currently learning: GCP, Networking, Linux, Terraform
+- 👯 Strengths: troubleshooting, clear communication, customer-first mindset
+- 😄 Looking to collaborate on beginner-friendly cloud projects
+- 💬 Ask me about customer service and cloud support
+- 📫 Reach me: nurussakinahnadiah@gmail.com
+- ⚡ Fun fact: 
+  - I have three cats
+  - I love coffee and tea
+  - Detective Conan is my favorite anime
+  
